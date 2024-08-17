@@ -1,4 +1,4 @@
-# RoamSmartr
+# RoamSmart
 Welcome to Roamsmart – your ultimate travel companion designed to enhance your tourism experience. Whether you're exploring new cities or planning your next vacation, Roamsmart offers comprehensive tools and resources to make your travels seamless and enjoyable.
 
 Features
